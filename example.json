@@ -1,8 +1,0 @@
-{
-    "ReferenceToLocalSchema": {
-        "no-write": true
-    },
-    "ReferenceToExternalSchema": {
-        "src": [ "a" ]
-    }
-}

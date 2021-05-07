@@ -5,7 +5,10 @@
     "additionalProperties": false,
     "properties": {
       "home": {
-        "$ref": "https://fred-mabs.github.io/addressonly.json#/definitions/AddressType"
+        "$ref": "https://fred-mabs.github.io/address.json#/definitions/AddressType"
+      },
+      "work": {
+        "$ref": "https://fred-mabs.github.io/address.json#/definitions/AddressType"
       }
     }
   }
