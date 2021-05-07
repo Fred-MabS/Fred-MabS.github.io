@@ -7,7 +7,7 @@
             "$ref": "#/definitions/LocalType"
         },
         "ReferenceToExternalSchema": {
-            "$ref": "https://rodger.sytes.net/common.json#/definitions/ExternalType"
+            "$ref": "https://fred-mabs.github.io/common.json#/definitions/ExternalType"
         }
     },
     "definitions": {

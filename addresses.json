@@ -5,7 +5,7 @@
     "additionalProperties": false,
     "properties": {
       "home": {
-        "$ref": "https://rodger.sytes.net/addressonly.json#/definitions/AddressType"
+        "$ref": "https://fred-mabs.github.io/addressonly.json#/definitions/AddressType"
       }
     }
   }
