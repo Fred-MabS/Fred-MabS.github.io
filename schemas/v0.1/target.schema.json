@@ -1,5 +1,5 @@
 {
-    "$id": "https://www.example.com/schemas/v0.1/target.schema.json",
+    "$id": "https://fred-mabs.github.io/schemas/v0.1/target.schema.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "additionalProperties": false,

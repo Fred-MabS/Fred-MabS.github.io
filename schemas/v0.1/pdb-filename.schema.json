@@ -1,5 +1,5 @@
 {
-    "$id": "https://www.example.com/schemas/pdb-filename.schema.json",
+    "$id": "https://fred-mabs.github.io/schemas/v0.1/pdb-filename.schema.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     
     "type": "string",

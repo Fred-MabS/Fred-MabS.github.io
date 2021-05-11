@@ -1,5 +1,5 @@
 {
-    "$id": "https://www.example.com/schemas/v0.1/results.schema.json",
+    "$id": "https://fred-mabs.github.io/schemas/v0.1/results.schema.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "additionalProperties": false,
@@ -7,7 +7,7 @@
         "antibody": { "type": "object" },
         "target": {
             "type": "object",
-            "$ref": "https://www.example.com/schemas/v0.1/target.schema.json" 
+            "$ref": "https://fred-mabs.github.io/schemas/v0.1/target.schema.json" 
         },
         "antibodyModel": { "type": "object" },
         "targetModel": { "type": "object" },
@@ -15,13 +15,13 @@
         "dockingPositions": {
             "type": "array",
             "items": {
-                "$ref": "https://www.example.com/schemas/v0.1/pdb-filename.schema.json"
+                "$ref": "https://fred-mabs.github.io/schemas/v0.1/pdb-filename.schema.json"
             }
         },
         "dockingPositionsWithoutTarget": {
             "type": "array",
             "items": {
-                "$ref": "https://www.example.com/schemas/v0.1/pdb-filename.schema.json"
+                "$ref": "https://fred-mabs.github.io/schemas/v0.1/pdb-filename.schema.json"
             }
         },
         "epitope": { "type": "object" },
