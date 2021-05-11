@@ -15,13 +15,13 @@
         "dockingPositions": {
             "type": "array",
             "items": {
-                "$ref": "https://fred-mabs.github.io/schemas/v0.1/pdb-filename.schema.json"
+                "$ref": "https://fred-mabs.github.io/schemas/v0.1/subdir/pdb-filename.schema.json"
             }
         },
         "dockingPositionsWithoutTarget": {
             "type": "array",
             "items": {
-                "$ref": "https://fred-mabs.github.io/schemas/v0.1/pdb-filename.schema.json"
+                "$ref": "https://fred-mabs.github.io/schemas/v0.1/subdir/pdb-filename.schema.json"
             }
         },
         "epitope": { "type": "object" },
